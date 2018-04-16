@@ -9,7 +9,7 @@
                 <display>^ff0000欢迎进入^000000 [ rAthenaCN ] 简体中文 [单机]</display>
                 <desc></desc>
                 <balloon></balloon>
-                <address>127.0.0.1</address>
+                <address>test-server</address>
                 <port>6900</port>
                 <version>55</version>
                 <langtype>3</langtype>

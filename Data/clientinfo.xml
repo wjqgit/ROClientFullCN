@@ -15,7 +15,7 @@
                 <langtype>3</langtype>
                 <registrationweb>http://127.0.0.1/</registrationweb>
                 <yellow>
-                        <admin>2000000</admin>
+                        <admin>2000002</admin>
                 </yellow>
                 <loading>
                         <image>loading00.jpg</image>
@@ -28,6 +28,7 @@
                         <image>loading07.jpg</image>
                         <image>loading08.jpg</image>
                 </loading>
+				<admin>2000002</admin>
         </connection>
 		
 		<connection>
